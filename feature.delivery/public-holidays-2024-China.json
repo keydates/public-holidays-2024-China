@@ -1,0 +1,82 @@
+{
+  "product": "China Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of the first day of the Gregorian calendar year"
+    },
+    {
+      "title": "Chinese New Year",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-25T12:00:00",
+      "endDate": "2024-01-25T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2024",
+      "style": "red",
+      "description": "Lunar New Year celebrated by Chinese communities worldwide"
+    },
+    {
+      "title": "Qingming Festival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-04T12:00:00",
+      "endDate": "2024-04-04T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2024",
+      "style": "green",
+      "description": "Tomb-sweeping day to pay respects to ancestors"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-05-01T12:00:00",
+      "endDate": "2024-05-01T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2024",
+      "style": "yellow",
+      "description": "International Workers' Day to celebrate labor and workers"
+    },
+    {
+      "title": "Dragon Boat Festival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-14T12:00:00",
+      "endDate": "2024-06-14T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2024",
+      "style": "teal",
+      "description": "Traditional festival to commemorate poet Qu Yuan"
+    },
+    {
+      "title": "Mid-Autumn Festival",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-09-13T12:00:00",
+      "endDate": "2024-09-13T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2024",
+      "style": "orange",
+      "description": "Harvest festival with mooncakes and family gatherings"
+    },
+    {
+      "title": "National Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-10-01T12:00:00",
+      "endDate": "2024-10-01T12:00:00",
+      "source": "Government",
+      "product": "China Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the founding of the People's Republic of China"
+    }
+  ]
+}
